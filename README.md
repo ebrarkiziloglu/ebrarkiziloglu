@@ -8,12 +8,12 @@ I am an almost graduate of Computer Engineering from Bogazici University.
 - 🌀 I’m actively learning natural language processing. 
 - 👯 I’m looking to collaborate on ML and NLP projects.
 
-### My Experience
+### 🍀 Past Experience
 - SWE Intern at Google UK, in 2023.
 - Undergrad research student at Keio University, in the NLP Research group.
 - STEP Intern at Google Switzerland, in 2022.
 
-### ✨ My Hobbies
+### ✨ Hobbies
 - 𝑓  Algorithms and mathematics enthusiast
 - 📚 Fan of good quality fiction
 - 💬 Language learning geek
