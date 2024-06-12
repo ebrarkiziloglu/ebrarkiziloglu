@@ -5,7 +5,7 @@ I am Ebrar, from Istanbul Turkey 🇹🇷
 I am an almost graduate of Computer Engineering from Bogazici University. 
 
 - ⚙️ I’m currently working on mobile testing with AI support.
-- 🌀 I’m currently learning natural language processing. 
+- 🌀 I’m actively learning natural language processing. 
 - 👯 I’m looking to collaborate on ML and NLP projects.
 
 ### My Experience
