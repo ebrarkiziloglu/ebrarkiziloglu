@@ -14,7 +14,7 @@ I am an almost graduate of Computer Engineering from Bogazici University.
 - STEP Intern at Google Switzerland, in 2022.
 
 ### ✨ My Hobbies
-- 𝑓 Algorithms and mathematics enthusiast
+- 𝑓  Algorithms and mathematics enthusiast
 - 📚 Fan of good quality fiction
 - 💬 Language learning geek
 
