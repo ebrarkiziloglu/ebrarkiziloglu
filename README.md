@@ -21,5 +21,6 @@ I am an almost graduate of Computer Engineering from Bogazici University.
 - 🧳 Traveling lover
 
 ### 📫 Reach out to me
-- 👔 My LinkedIn [profile](https://www.linkedin.com/in/ebrarkiziloglu/).
-- ⚡ My up-to-date [Resume](https://drive.google.com/file/d/1-WdC1im6yQiANh_RajliW9PNryLxa31B/view?usp=sharing).
+- 👔 Connect with me on [LinkedIn](https://www.linkedin.com/in/ebrarkiziloglu/).
+- 📧 [Email](ebrarkiziloglu@gmail.com) to me.
+- ⚡ Check out my [Resume](https://drive.google.com/file/d/1LeIUgnr4_qD2vjT8xFguAarW_N5dExt9/view?usp=sharing).
