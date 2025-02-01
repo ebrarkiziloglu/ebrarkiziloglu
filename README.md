@@ -1,18 +1,20 @@
 ## Hi there 👋
 
-I am Ebrar, from Istanbul Turkey 🇹🇷
+I am Ebrar, from Istanbul 🇹🇷
 
-I am an almost graduate of Computer Engineering from Bogazici University. 
+I graduated from Computer Engineering at Bogazici University. 
 
-- ⚙️ I’m currently working on mobile testing with AI support.
-- 🌀 I’m actively learning natural language processing. 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrarkiziloglu&hide_progress=false&theme=chartreuse-dark&hide=jupyter%20notebook&layout=compact)
+
+- 📱 I’m currently developing a mobile application.
+- 💬 I’m actively learning natural language processing. 
 - 👯 I’m looking to collaborate on ML and NLP projects.
 
 ### 🍀 Past Experience
 - SWE Intern at Google UK, in 2023.
 - Undergrad research student at Keio University, in the NLP Research group, in 2023.
 - STEP Intern at Google Switzerland, in 2022.
-- Student Teaching Assistant for the Discrete Mathematics and Introduction to Computing courses at Bogazici University, in 2021 and 2022.
+- Student TA for the Discrete Mathematics and Introduction to Computing courses at Bogazici University, in 2021 and 2022.
 
 ### ✨ Hobbies
 - 𝑓  Algorithms and mathematics enthusiast
