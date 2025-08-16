@@ -2,28 +2,30 @@
 
 I am Ebrar, from Istanbul 🇹🇷
 
-I just graduated from Computer Engineering at Bogazici University. 
+I just graduated in Computer Engineering from Bogazici University.
 
-<!---
+I’ve recently moved to Munich 🇩🇪 to start my Master’s in Informatics at TUM.  
+
+I’m especially passionate about NLP and open to exciting research opportunities in this field.  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrarkiziloglu&hide_progress=false&theme=chartreuse-dark&hide=jupyter%20notebook&layout=compact)
--->
 
-- 📱 I’m currently developing a mobile application.
-- 💬 I’m actively learning natural language processing. 
-- 👯 I’m looking to collaborate on ML and NLP projects.
+- 📱 Currently developing a mobile application.  
+- 💬 Actively learning and exploring natural language processing.  
+- 👯 Open to collaborations on ML and NLP projects.  
 
 ### 🍀 Past Experience
-- SWE Intern at Google UK, in 2023.
-- Undergrad research student at Keio University, in the NLP Research group, in 2023.
-- STEP Intern at Google Switzerland, in 2022.
-- Student TA at Bogazici University, in 2021 - 2022.
+- NLP researcher at Bogazici University, 2025.
+- SWE Intern at Google UK, 2023.  
+- STEP Intern at Google Switzerland, 2022.  
+- Student TA at Bogazici University (Python Programming, Discrete Mathematics, Algorithm Analysis), 2021–2024.  
 
 ### ✨ Hobbies
-- 𝑓  Algorithms and mathematics enthusiast
-- 📚 Fan of good quality fiction
-- 💬 Language learning geek
-- 🧳 Traveling lover
-
+- 𝑓 Passionate about algorithms & mathematics  
+- 📚 Avid reader of quality fiction  
+- 💬 Enthusiastic language learner  
+- 🧳 Travel and culture explorer
+   
 ### 📫 Reach out to me
 - 👔 Connect with me on [LinkedIn](https://www.linkedin.com/in/ebrarkiziloglu/).
 - 📧 [Email](ebrarkiziloglu@gmail.com) to me.
