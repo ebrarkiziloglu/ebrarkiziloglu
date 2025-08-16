@@ -8,7 +8,9 @@ I’ve recently moved to Munich 🇩🇪 to start my Master’s in Informatics a
 
 I’m especially passionate about NLP and open to exciting research opportunities in this field.  
 
+<!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrarkiziloglu&hide_progress=false&theme=chartreuse-dark&hide=jupyter%20notebook&layout=compact)
+--->
 
 - 📱 Currently developing a mobile application.  
 - 💬 Actively learning and exploring natural language processing.  
@@ -30,3 +32,6 @@ I’m especially passionate about NLP and open to exciting research opportunitie
 - 👔 Connect with me on [LinkedIn](https://www.linkedin.com/in/ebrarkiziloglu/).
 - 📧 [Email](ebrarkiziloglu@gmail.com) to me.
 - ⚡ Check out my [Resume](https://drive.google.com/file/d/1LeIUgnr4_qD2vjT8xFguAarW_N5dExt9/view?usp=sharing).
+
+
+![ebrarkiziloglu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebrarkiziloglu&show_icons=true&theme=radical)
