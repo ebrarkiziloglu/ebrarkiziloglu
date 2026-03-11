@@ -10,7 +10,8 @@
 
 **Current Works**
 - 🔬 Researching cross-lingual learnability at TUM
-- 📱 Building a mobile app  
+- 🤖 Building an appointment scheduler voica agent with 11labs.
+- 📱 Building mobile apps
 
 **Previously:**
 - NLP Researcher — **Boğaziçi University** (2025)  
